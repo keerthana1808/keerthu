@@ -6,7 +6,7 @@ class Mul
         Scanner sc=new Scanner(System.in);
         int n=sc.nextInt();
         int a=1;
-        for(int i=1;i<=n;i++)
+        for(int i=1;i<=5;i++)
         {
          a=n*i;   
         
